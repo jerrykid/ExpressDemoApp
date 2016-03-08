@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>15060608-1841-439d-aca0-1b5ad392b237</TargetProject>
+    <FriendlyName>ExpressDemoApp</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>D:\Source\ExpressDemoApp\ExpressDemoApp_20160308.vspx</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
